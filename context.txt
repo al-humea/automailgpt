@@ -1,0 +1,10 @@
+/*
+ * Fichier: context.txt
+ * Projet: automailgpt
+ * Auteur: Alexandre L'HUMEAU
+ * 01-2023
+ */
+
+who are you :
+what is your work :
+examples :

@@ -1,0 +1,9 @@
+/*
+ * Fichier: id.txt
+ * Projet: automailgpt
+ * Auteur: Alexandre L'HUMEAU
+ * 01-2023
+ */
+
+mail:
+pwd:
