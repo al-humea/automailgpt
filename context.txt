@@ -1,3 +1,10 @@
-who are you :
-what is your work :
-examples :
+Nationality : Country
+who are you : Firstname Lastname, Age
+What is your work : Goal of your work
+examples (repeat the scheme to feed more examples) :
+- Client1 : text
+- Me : answer
+- Client2 : text
+- Me : answer
+- ...3 : text
+- ... 
