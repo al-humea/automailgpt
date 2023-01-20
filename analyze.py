@@ -6,7 +6,8 @@ openai.api_key = open("./id.txt", "r").readlines()[2].strip().split(":")[1]
 model_engine = "text-davinci-002"
 context = open("./context.txt", "r").readlines()
 for i, ctxt in enumerate(context):
-	if (i > 3):
+	if i > 4:
+		print(i)
 		break
 	context[i] = ctxt.strip().split(":")[1]
 print(context)
